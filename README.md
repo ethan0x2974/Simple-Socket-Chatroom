@@ -8,11 +8,10 @@ This chatroom uses two files in order to work:
 This chatroom works for windows only right now, but to make it work for all OS's you just need to remove the ctype refernces.
 
 Modules being used:
-'import socket
-import select
-from colorama import init, Fore, Back, Style
-from time import gmtime, strftime
-import os
-import time
-import ctypes'
+- Colorama
+- Socket
+- Select
+- time
+- os
+- ctypes
 
