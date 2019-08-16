@@ -24,6 +24,15 @@ This will start the C&C server.
 After the server is running you can now run client.py by doing:
 `python client.py`
 
+# TODO
+- Make it so you can ban/kick users from the C&C
+- Make it so you can edit your messages via client.py and the C&C
+- Have a bot with many features such as anti-swearing, advance anti-spam, etc.
+- Have a PM system
+In the works:
+- User online system
+
+
 That is all, here are some screen shots:
 # C&C:
 ![Alt text](/cnc1.png?raw=true "Title")
