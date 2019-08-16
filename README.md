@@ -26,6 +26,7 @@ After the server is running you can now run client.py by doing:
 
 That is all, here are some screen shots:
 # C&C:
+![alt text](http://prntscr.com/otm5qw)
 http://prntscr.com/otm5qw
 http://prntscr.com/otm6wx
 
