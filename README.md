@@ -27,9 +27,8 @@ After the server is running you can now run client.py by doing:
 That is all, here are some screen shots:
 # C&C:
 ![Alt text](/cnc1.png?raw=true "Title")
-http://prntscr.com/otm5qw
-http://prntscr.com/otm6wx
+![Alt text](/cnc2.png?raw=true "Title")
 
 # Client
-http://prntscr.com/otm643
-http://prntscr.com/otm6rz
+![Alt text](/client1.png?raw=true "Title")
+![Alt text](/client2.png?raw=true "Title")
