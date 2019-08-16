@@ -30,5 +30,5 @@ That is all, here are some screen shots:
 ![Alt text](/cnc2.png?raw=true "Title")
 
 # Client
-![Alt text](/client1.png?raw=true "Title")
-![Alt text](/client2.png?raw=true "Title")
+http://prntscr.com/otm643
+http://prntscr.com/otm6rz
