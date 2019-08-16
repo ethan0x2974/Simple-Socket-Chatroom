@@ -15,3 +15,15 @@ Modules being used:
 - os
 - ctypes
 
+# How to use
+first, edit client.py and server.py and change the IP to your server IP or keep it 127.0.0.1 if your running it on your local machine.
+you can change the port to any thing you want, just make sure they are the same in both files.
+After that run:
+`python server.py`
+This will start the C&C server.
+After the server is running you can now run client.py by doing:
+`python client.py`
+
+That is all, here are some screen shots:
+
+
